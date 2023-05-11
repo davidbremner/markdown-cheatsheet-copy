@@ -1,3 +1,4 @@
 the OG doc
 now with an edit on the new branch
 adding conflict message
+an alternative message
